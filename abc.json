@@ -1,4 +1,26 @@
 {
-    "name": "a",
-    "rollno": 1
+    "commits": [
+        {
+            "id": "",
+            "distinct": true,
+            "message": "test1",
+            "timestamp": "2022-07-21T23:34:59+05:30",
+            "url": "https://github.com/Shounak-Pattewale/action-repo/commit/id",
+            "author": {
+                "name": "Shounak Pattewale",
+                "email": "shounaky2k@gmail.com",
+                "username": "Shounak-Pattewale"
+            },
+            "committer": {
+                "name": "Shounak Pattewale",
+                "email": "shounaky2k@gmail.com",
+                "username": "Shounak-Pattewale"
+            },
+            "added": [
+                "abc.json"
+            ],
+            "removed": [],
+            "modified": []
+        }
+    ]
 }
